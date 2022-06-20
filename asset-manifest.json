@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/siroca-task/static/css/main.d4a0d764.css",
+    "main.js": "/siroca-task/static/js/main.ee725597.js",
+    "index.html": "/siroca-task/index.html",
+    "main.d4a0d764.css.map": "/siroca-task/static/css/main.d4a0d764.css.map",
+    "main.ee725597.js.map": "/siroca-task/static/js/main.ee725597.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a0d764.css",
+    "static/js/main.ee725597.js"
+  ]
+}
