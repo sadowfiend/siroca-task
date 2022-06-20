@@ -22,7 +22,7 @@ const Sort = ({value, onChangeSort}) => {
 
     return (
         <div className="sort">
-            <div onClick={() => setOpen(!open)}>
+            <div className="sort__row" onClick={() => setOpen(!open)}>
                 <b>Сортировка по : </b>
                 <span>{value.name}</span>
             </div>

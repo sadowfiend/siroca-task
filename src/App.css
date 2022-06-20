@@ -123,6 +123,10 @@ li {
     width: 160px;
 }
 
+.sort__row {
+    cursor: pointer;
+}
+
 .sort__popup ul {
     color: #000 !important;
     cursor: pointer;
